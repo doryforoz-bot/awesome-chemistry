@@ -132,6 +132,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Organic Chemistry Portal](https://www.organic-chemistry.org/) – Reference materials and reaction guides.
 - [NMR Guide](https://www.spectroscopyonline.com/) – Practical guides for NMR and spectroscopy techniques.
 - [Computational Chemistry Wiki](https://en.wikipedia.org/wiki/Computational_chemistry) – Overview of methods and tools.
+- [How to Interpret POSS Spectra](https://silsesquioxane.blogspot.com/p/spectra-of-silsesquioxanes.html) – Guide to 29Si NMR, FTIR, and mass spectra of polyhedral oligomeric silsesquioxanes.
 
 ### Courses
 - *Physical Chemistry* – Thermodynamics, kinetics, and quantum chemistry foundations.
